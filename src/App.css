@@ -35,6 +35,11 @@
   border-radius: 4px;
   color: #fff;
   box-shadow: #333 0px 1px 5px;
+  cursor: pointer;
+}
+button.remove-cart-button {
+  background-color: blue;
+  margin-top: 10px;
 }
 .img-wrapper img {
   width: 100px;
@@ -42,15 +47,16 @@
 }
 .cart-wrapper{
   height: 100px;
-    width: 500px;
-    border: 1px solid #ccc;
-    margin-left: 10%;
+  width: 530px;
+  border: 1px solid #ccc;
+  margin-left: 29.5%;
+  background: antiquewhite;
 }
 .item {
   float: left;
   display: inline-block;
   width: 120px;
-  padding: 20px;
+  padding: 12px;
   height: 70px;
 }
 .add-to-cart img{
@@ -71,6 +77,13 @@
     height: 20px;
     border-radius: 50%;
     color: #fff;
+}
+
+.text-wrapper{
+  text-align: center;
+  font: normal normal bold 18px/22px poppins;
+  width: 120px;
+  display: grid;
 }
 /*  */
 @keyframes App-logo-spin {

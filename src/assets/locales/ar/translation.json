@@ -1,0 +1,12 @@
+{
+    "select_language": "اختار اللغة",
+    "hello_welcome_to_react": "مرحبًا بك في رد الفعل",
+    "this_is_an_example": "هذا مثال",
+    "please_enter_name": "من فضلك ادخل الاسم",
+    "shopping_cart" : "سلة التسوق",
+    "add_to_cart": "اضف الى سلة التسوق",
+    "remove_from_cart": "إزالة من سلة التسوق",
+    "phone" : "الهاتف",
+    "price" : "ثمن"
+  }
+  

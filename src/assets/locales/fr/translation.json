@@ -1,0 +1,11 @@
+{
+  "select_language": "Sprache auswählen",
+  "hello_welcome_to_react": "Bonjour, Bienvenue chez React",
+  "this_is_an_example": "Ceci est un exemple",
+  "please_enter_name": "Veuillez saisir le nom",
+  "shopping_cart": "Einkaufswagen",
+  "add_to_cart": "In den Warenkorb",
+  "remove_from_cart": "Aus dem Warenkorb entfernen",
+  "phone" : "Telefon",
+  "price" : "Preis"
+}
